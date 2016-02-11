@@ -1,0 +1,12 @@
+Downloading files.
+
+Check OS
+
+Check file.exists()
+
+download, store date
+
+Check what file type
+  and therefor determine which  method to use to read file into R (read.table, read.csv2() etc)
+
+when usinf read.table() with csv specify sep param = ','
